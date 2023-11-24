@@ -1,0 +1,13 @@
+#carouselExample img{
+    height: 500px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+#cl{
+    height: 100%;
+}
